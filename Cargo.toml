@@ -1,0 +1,9 @@
+[package]
+name = "history-box"
+version = "0.1.0"
+description = "A history box that keeps history references"
+edition = "2021"
+license = "MIT"
+repository = "https://github.com/victorteokw/history-box"
+
+[dependencies]
